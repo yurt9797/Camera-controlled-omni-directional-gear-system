@@ -12,4 +12,4 @@ EMEET C960 1080P webcam<br/>
 
 ## Hardware Setup
 
-![alt text](https://github.com/yurt9797/Camera-controlled-omni-gear-system/blob/main/Hardware_setup.jpg?raw=true)
+![alt text](https://github.com/yurt9797/Camera-controlled-omni-directional-gear-system/blob/main/Hardware_setup.JPG?raw=true)
